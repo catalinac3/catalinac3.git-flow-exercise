@@ -9,4 +9,5 @@ many problems during the 7 years of school at magical school.
 * Bookworm
 * Loyail
 Popular quote from Hermione:
+
 > I mean, it’s sort of exciting isn’t it? Breaking the rules.
